@@ -4,6 +4,8 @@ function AllEventsPage() {
         <div>
             <h1>
                 all events page
+
+                
             </h1>
         </div>
     )
